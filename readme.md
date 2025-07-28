@@ -2,6 +2,8 @@
 This is a full-stack e-commerce website built with **MERN stack** using **Vite**, **Tailwind CSS**, **MongoDB**, **Express**, **React**, and **Node.js**. It supports full admin and user functionalities including product browsing, cart management, and order processing.
 
 ---
+ 
+hii
 
 ## 🔧 Folder Structure
 ```
